@@ -8,7 +8,8 @@
     "deploy": "twilio-run deploy"
   },
   "dependencies": {
-    "axios": "^0.21.0"
+    "axios": "^0.21.0",
+    "cryptr": "^6.0.2"
   },
   "devDependencies": {
     "twilio-run": "^2.6.0"
